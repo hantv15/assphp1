@@ -1,0 +1,16 @@
+{
+  "name": "assigmentPHP1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind-defaul.config.js",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build-css" : "tailwindcss build src/styles.css -o build/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
